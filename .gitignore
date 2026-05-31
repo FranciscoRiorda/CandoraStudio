@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+dist/
+.next/
+out/
+
+# Variables de entorno (Secretos)
+.env
+.env.local
+.env.production
+
+# IDEs
+.vscode/
+.idea/
+DS_Store
