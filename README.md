@@ -1,4 +1,4 @@
-# CandoraStudio — Proyecto Fullstack
+# CandoraStudio — Proyecto Fullstack v1
 
 Este repositorio contiene un backend con NestJS (TypeORM + MySQL) y un frontend con React + Vite.
 
